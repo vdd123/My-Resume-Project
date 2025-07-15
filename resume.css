@@ -1,0 +1,89 @@
+*{
+    color:#384148;
+}
+
+
+
+
+.name{
+    text-decoration:underline #4CD681;
+    font-weight: bolder;
+    color:#384148;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:5px 0px 0px 10px;
+    
+}
+
+.skill{
+    
+    font-weight:bolder;
+    margin:0 0 -10 710px;
+    text-decoration:underline #4CD681;
+
+}
+
+#spanskill{
+    background-color:#9df9ec;
+    padding: 0px 4px; /*padding 1st px is for top bottom and anather for right left*/
+    border-radius: 2px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.3);/*box shadow ist px is for x axis mins r and l and anther is for y mins t and b*/
+    text-decoration: dashed;
+
+}
+.skilledit{
+    margin:0 70 0 725px;
+    font-size:18.78px;
+    text-align:justify;
+}
+
+.project{
+    text-weight:bolder;
+    text-decoration: underline #4CD681;
+    color:#384148;
+    margin:0 0 0 0;
+}
+
+.projectedit{
+    font-size:18.78px;
+    margin:0 670px 0 2.5px;
+    text-align:justify;
+}
+
+#spancontact{
+    display:inline-block;
+    font-size:16.5px;
+    position:fixed;
+    bottom:125.01px;
+    right:180;
+}
+
+.contactlink {
+    position:fixed;
+    right:50px;
+    bottom:5px;
+}
+
+.contactlink a {
+    display:block;
+    width:200px;
+    border:2px solid rgb(255, 0, 0);
+    border-top:none;
+    color:rgba(219, 18, 230, 0.6);
+    width:200px;
+    text-decoration:none;
+    
+    bottom:20px;
+    right:20px;
+}
+
+
+.contactlink a:hover{
+    color:orange;
+    text-decoration:overline;
+}
+
+.contactlink p {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #384148;
+}
